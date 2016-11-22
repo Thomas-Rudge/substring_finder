@@ -8,6 +8,6 @@ def substrings(sentence, dictionary)
     end
   end
 
-  return counter
+  counter
 
 end
